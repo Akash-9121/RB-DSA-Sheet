@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
