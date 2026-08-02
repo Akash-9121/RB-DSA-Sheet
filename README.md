@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -55,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
