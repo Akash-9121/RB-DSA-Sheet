@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0877-stone-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0042-trapping-rain-water) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
