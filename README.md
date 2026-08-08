@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0283-move-zeroes) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3345-smallest-divisible-digit-product-i) |
