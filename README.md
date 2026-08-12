@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3345-smallest-divisible-digit-product-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
