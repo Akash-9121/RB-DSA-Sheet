@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/1480-running-sum-of-1d-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
