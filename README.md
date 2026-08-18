@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0541-reverse-string-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3517-smallest-palindromic-rearrangement-i) |
