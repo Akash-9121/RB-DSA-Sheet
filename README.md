@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/1480-running-sum-of-1d-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0004-median-of-two-sorted-arrays) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
