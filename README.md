@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/1480-running-sum-of-1d-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0242-valid-anagram) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
