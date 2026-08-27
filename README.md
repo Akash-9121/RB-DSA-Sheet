@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/1480-running-sum-of-1d-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3618-split-array-by-prime-indices](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3618-split-array-by-prime-indices) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3536-maximum-product-of-two-digits) |
+| [3618-split-array-by-prime-indices](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3618-split-array-by-prime-indices) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Sorting
 |  |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0136-single-number) |
+## Number Theory
+|  |
+| ------- |
+| [3618-split-array-by-prime-indices](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3618-split-array-by-prime-indices) |
 <!---LeetCode Topics End-->
