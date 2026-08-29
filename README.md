@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0628-maximum-product-of-three-numbers) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0242-valid-anagram) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3731-find-missing-elements) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0628-maximum-product-of-three-numbers) |
