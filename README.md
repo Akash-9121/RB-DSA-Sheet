@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0877-stone-game) |
+| [2469-convert-the-temperature](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/2469-convert-the-temperature) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3536-maximum-product-of-two-digits) |
 | [3618-split-array-by-prime-indices](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3618-split-array-by-prime-indices) |
