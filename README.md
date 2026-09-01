@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0414-third-maximum-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0242-valid-anagram) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0414-third-maximum-number) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0169-majority-element) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0169-majority-element) |
 ## Simulation
 |  |
 | ------- |
@@ -168,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0202-happy-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Akash-9121/RB-DSA-sheet/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
